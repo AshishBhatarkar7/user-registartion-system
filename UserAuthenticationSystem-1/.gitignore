@@ -1,0 +1,16 @@
+# .gitignore for Spring Boot / Maven projects
+
+# Ignore Maven build directory
+target/
+
+# Ignore logs
+*.log
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
